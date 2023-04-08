@@ -1,0 +1,29 @@
+{
+  "name": "m6-a2-protecting-resources",
+  "version": "1.0.0",
+  "description": "M6-A2-Protecting-Resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpgajula/M6-A2-Protecting-Resources.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpgajula/M6-A2-Protecting-Resources/issues"
+  },
+  "homepage": "https://github.com/vpgajula/M6-A2-Protecting-Resources#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22"
+  }
+}
